@@ -46,5 +46,5 @@
 
 [website]: https://sparkcoder157github.io
 [twitter]: https://twitter.com/SparkCoder
-[instagram]: https://instagram.com/thelazy_developer
+[instagram]: https://instagram.com/the_lazy_developer
 [facebook]: https://facebook.com/SparkCoder
