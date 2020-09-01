@@ -4,8 +4,7 @@
 
 - 🌱 Trying to improve my skills everyday
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read about Space and Defence technologies
-
+- ⚡ Fun fact: I love to read about Deep Space, Aliens and Time Traveling
 ### Connect with me:
 
 [<img align="left" alt="sparkcoder157.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
