@@ -3,7 +3,6 @@
 ---
 
 - 🌱 Trying to improve my skills everyday
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read about Deep Space, Aliens and Time Traveling
 ### Connect with me:
 
