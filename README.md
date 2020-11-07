@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sparkcoder157&show_icons=true&hide_border=true&count_private=true" /> <br><br>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sparkcoder157&show_icons=true&hide_border=true&count_private=true" /> <br>
 <img align="left" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkcoder157&layout=compact&theme=radical"/>
 
 [website]: https://sparkcoder157github.io
