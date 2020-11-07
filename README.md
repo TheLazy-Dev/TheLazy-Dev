@@ -7,7 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="sparkcoder157.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SparkCoder_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DenishGoklani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="the_lazy_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="SparkCoder" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
@@ -45,6 +45,6 @@
 <img align="Centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkcoder157&layout=compact&theme=radical"/>
 
 [website]: https://sparkcoder157github.io
-[twitter]: https://twitter.com/SparkCoder
+[twitter]: https://twitter.com/DenishGoklani
 [instagram]: https://instagram.com/the_lazy_developer
 [facebook]: https://facebook.com/SparkCoder
