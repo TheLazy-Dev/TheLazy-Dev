@@ -1,4 +1,4 @@
-## Hey there, I'm Denish Goklani - aka [SparkCoder][website] 👋
+## Hey there, I'm Denish Goklani - aka [The_lazy_developer][website] 👋
 #### A Student, Developer & Book Writer
 ---
 
@@ -44,7 +44,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sparkcoder157&show_icons=true&hide_border=true&count_private=true" /> <br>
 <img align="Centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkcoder157&layout=compact&theme=radical"/>
 
-[website]: https://sparkcoder157github.io
+[website]: https://TheLazy-Dev.github.io
 [twitter]: https://twitter.com/DenishGoklani
 [instagram]: https://instagram.com/the_lazy_developer
 [facebook]: https://facebook.com/SparkCoder
