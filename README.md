@@ -6,10 +6,10 @@
 - ⚡ Fun fact: I love to read about Deep Space, Aliens and Time Traveling
 ### Connect with me:
 
-[<img align="left" alt="sparkcoder157.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TheLazy-Dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DenishGoklani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="the_lazy_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="SparkCoder" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="TheLazy-Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -42,7 +42,7 @@
 ---
 # Stats
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLazy-Dev&show_icons=true&hide_border=true&count_private=true" /> <br>
-<img align="Centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkcoder157&layout=compact&theme=radical"/>
+<img align="Centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazy-Dev&layout=compact&theme=radical"/>
 
 [website]: https://TheLazy-Dev.github.io
 [twitter]: https://twitter.com/DenishGoklani
