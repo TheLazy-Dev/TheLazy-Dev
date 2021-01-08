@@ -1,4 +1,4 @@
-## Hey there, I'm Denish Goklani - aka [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com)
+## Hey there, I'm Denish Goklani - aka [![Website](https://img.shields.io/badge/visit-TheLazy--dev.github.io-green)](https://gamerary.com)
  👋
 #### A Student, Developer & Book Writer
 ---
