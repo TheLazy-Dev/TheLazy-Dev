@@ -1,5 +1,5 @@
 ## Hey there, I'm Denish Goklani - aka The Lazy Developer 👋
-[![Website](https://img.shields.io/badge/visit-TheLazy--dev.github.io-green)](https://gamerary.com)
+[![Website](https://img.shields.io/badge/visit-TheLazy--dev.github.io-green)](https://TheLazy-dev.github.io)
 
 #### A Student, Developer & Book Writer
 ---
