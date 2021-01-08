@@ -1,4 +1,4 @@
-## Hey there, I'm Denish Goklani - aka [The_lazy_developer][website] 👋
+## Hey there, I'm Denish Goklani - aka [https://img.shields.io/badge/visit-TheLazy--dev.github.io-green][website] 👋
 #### A Student, Developer & Book Writer
 ---
 
