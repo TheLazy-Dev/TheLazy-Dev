@@ -45,6 +45,8 @@
 # Stats
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLazy-Dev&show_icons=true&hide_border=true&count_private=true" /> <br>
 <img align="Centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazy-Dev&layout=compact&theme=radical"/>
+<br><br>
+<img align="Center" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=thelazy-dev"/>
 
 [website]: https://TheLazy-Dev.github.io
 [twitter]: https://twitter.com/DenishGoklani
