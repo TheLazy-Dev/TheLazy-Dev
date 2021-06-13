@@ -48,8 +48,6 @@
 <br><br>
 <img align="Center" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=thelazy-dev"/>
 <br><br>
-<img align="left" alt="metrics, if not visible, please refresh.." src="https://metrics.lecoq.io/thelazy-dev"/>
-<br><br>
 <img align="Center" alt="Straks" src="https://github-readme-streak-stats.herokuapp.com/?user=thelazy-dev"/>
 
 [website]: https://TheLazy-Dev.github.io
