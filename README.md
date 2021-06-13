@@ -1,56 +1,51 @@
-## Hey there, I'm Denish Goklani - aka The Lazy Developer 👋
+
+<div align='center'>
+
+  <img width="700" alt="Screenshot 2021-06-13 at 3 21 57 PM" src="https://user-images.githubusercontent.com/32642309/121802682-3b111e80-cc5b-11eb-8799-a423e9c4e5e2.png">
+  
+# Hey there, I'm Denish Goklani 👋 
+  
 [![Website](https://img.shields.io/badge/visit-TheLazy--dev.github.io-green)](https://TheLazy-dev.github.io)
 
-#### A Student, Developer & Book Writer
----
+  <h2> A Developer & Open Source Contributor </h2>
+  
 
-- 🌱 Trying to improve my skills everyday
-- ⚡ Fun fact: I love to read about Deep Space, Aliens and Time Traveling
+🌱 Trying to improve my skills everyday
+  <br>
+ ⚡ Fun fact: I love to read about Deep Space, Aliens and Time Traveling
+  
 ### Connect with me:
 
-[<img align="left" alt="TheLazy-Dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DenishGoklani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="the_lazy_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="TheLazy-Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="center" alt="TheLazy-Dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="DenishGoklani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="the_lazy_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="TheLazy-Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+# 
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-
-<img align="left" alt="Android Studio" width="26px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
 
----
+
 # Stats
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLazy-Dev&show_icons=true&hide_border=true&count_private=true" /> <br><br>
-<img align="Centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazy-Dev&layout=compact&theme=radical"/>
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLazy-Dev&show_icons=true&hide_border=true&count_private=true" /> <br><br>
+<img align="centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazy-Dev&layout=compact&theme=radical"/>
 <br><br>
-<img align="Center" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=thelazy-dev"/>
-<br><br>
-<img align="Center" alt="Straks" src="https://github-readme-streak-stats.herokuapp.com/?user=thelazy-dev"/>
 
 [website]: https://TheLazy-Dev.github.io
 [twitter]: https://twitter.com/DenishGoklani
 [instagram]: https://instagram.com/the_lazy_developer
 [facebook]: https://facebook.com/SparkCoder
+<div>
