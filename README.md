@@ -13,6 +13,8 @@
 🌱 Trying to improve my skills everyday
   <br>
  ⚡ Fun fact: I love to read about Deep Space, Aliens and Time Traveling
+ 
+  #
   
 ### Connect with me:
 
@@ -35,13 +37,9 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-<br />
-<br />
-
-
 # Stats
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLazy-Dev&show_icons=true&hide_border=true&count_private=true" /> <br><br>
-<img align="centre" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazy-Dev&layout=compact&theme=radical"/>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLazy-Dev&show_icons=true&hide_border=true&count_private=true" /> <br>
+<img align="right" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazy-Dev&layout=compact&theme=radical"/>
 <br><br>
 
 [website]: https://TheLazy-Dev.github.io
