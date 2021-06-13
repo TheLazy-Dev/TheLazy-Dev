@@ -37,11 +37,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-# Stats
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheLazy-Dev&show_icons=true&hide_border=true&count_private=true" /> <br>
-<img align="center" alt="Most Lang Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazy-Dev&layout=compact&theme=radical"/>
-  
-
 [website]: https://TheLazy-Dev.github.io
 [twitter]: https://twitter.com/DenishGoklani
 [instagram]: https://instagram.com/the_lazy_developer
