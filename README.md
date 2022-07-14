@@ -8,6 +8,7 @@
 [![Website](https://img.shields.io/badge/visit-TheLazy--dev.github.io-green)](https://TheLazy-dev.github.io)
 
   <h2> A Developer & Open Source Contributor </h2>
+  <h4> Flutter, Express, Firebase, Ejs, EsList </h4>
   
 
 🌱 Trying to improve my skills everyday
